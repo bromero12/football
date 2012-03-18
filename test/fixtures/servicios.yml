@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  tipodeservicio: MyString
+  descripcion: MyString
+  tarifa: 1
+
+two:
+  tipodeservicio: MyString
+  descripcion: MyString
+  tarifa: 1

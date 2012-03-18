@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nombre: MyString
+  caracteristicas: MyString
+  diahora: 2012-03-17 14:56:27
+  tarifa: 1
+  promocion: 
+
+two:
+  nombre: MyString
+  caracteristicas: MyString
+  diahora: 2012-03-17 14:56:27
+  tarifa: 1
+  promocion: 
